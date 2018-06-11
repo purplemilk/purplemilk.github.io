@@ -11,5 +11,9 @@ And the stars never rise, but I feel the bright eyes
 And so, all the night-tide, I lie down by the side 
 
    Of my darling, my DARLING! My life and my bride, 
+   
    In her sepulchre there by the sea— 
+   
+   
+   
    In her tomb by the sounding sea.
