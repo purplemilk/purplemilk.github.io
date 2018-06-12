@@ -1,7 +1,7 @@
 # ᎤᏲᏨᎯ ᎠᏓᏅᏙ
 
 **For the moon never beams, without bringing me dreams**        
-	**Of the beautiful Annabel Lee; **
+	**Of the beautiful Annabel Lee;**
    
 **And the stars never rise, but I feel the bright eyes**   
 	**Of the beautiful Annabel Lee;**
