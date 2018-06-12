@@ -16,11 +16,12 @@
     <div class="wrapper">
       <header>
         <style>
-body {background-color: aliceblue;}
-h1   {color: SlateGrey;}
-p    {color: black;}
 
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+					body {background-color: aliceblue;}
+
+					p {color: black;}
+
+        <h1 style="color:SlateGrey;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -45,7 +46,9 @@ p    {color: black;}
         {% endif %}
           
       </header> 
-          </style>
+          
+				</style>
+				
       <section>
 
       {{ content }}
