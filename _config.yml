@@ -1,27 +1,4 @@
 theme: jekyll-theme-minimal
 
-title: [ Home ]
-description: [ <html>
-<head>
-<style> 
-input[type=text] {
-    width: 100%;
-    padding: 10px 18px;
-    margin: 4px 0;
-    box-sizing: border-box;
-    border-bottom: 2px solid SlateGray;
-    border-radius: 4px;
-}
-</style>
-</head>
-<body>
-
-
-<form>
-  <center><label for="fname"><h1>Tell me a secret?</h1></label></center>
-  <input type="text" id="fname" name="fname">
- 
-</form>
-
-</body>
-</html> ]
+title: [ . ]
+description: [  ]
