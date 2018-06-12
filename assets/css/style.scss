@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-body {background-color: #F0F4FA;}
 
-background-image: url("https://i.imgur.com/0b0taE2.png");
+div {
+  background-image:
+      url("https://i.imgur.com/0b0taE2.png");
+}
+
+
