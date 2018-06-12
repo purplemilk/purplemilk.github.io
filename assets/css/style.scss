@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 
-div {
+body {
   background-image:
       url("https://i.imgur.com/0b0taE2.png");
+  background-color: transparent;
 }
 
 
