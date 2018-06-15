@@ -1,6 +1,4 @@
-my skin crawls when i think of you
-gross you're so
-gross
-you're so so...
+(;
 
-(you disgust me, you disgust me)
+my only regret is deleting all of our texts
+they would have made for some brilliant art
