@@ -1,4 +1,4 @@
-# ᎤᏲᏨᎯ ᎠᏓᏅᏙ
+# I'm not a poet, these aren't about you.
 	
 For the moon never beams, without bringing me dreams        
 	Of the beautiful Annabel Lee;
