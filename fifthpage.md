@@ -1,5 +1,9 @@
 Notes from my phone:
 
+thankyouthaknyouthankyouthankyouthankyouthankyouathnlyouthankyouthankyouathnkyouhtankyuoythankyou
+
+*/*
+
 3:38am
 i'm drunk and your art was never interesting
 
