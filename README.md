@@ -1,4 +1,4 @@
-# I'm not a poet, these aren't about you.
+# Just a dumb girl
 	
 For the moon never beams, without bringing me dreams        
 	Of the beautiful Annabel Lee;
@@ -13,4 +13,4 @@ In her sepulchre there by the sea—
    
    
    
-In her tomb by the sounding sea.
+In her tomb by the sounding sea. (POE)
