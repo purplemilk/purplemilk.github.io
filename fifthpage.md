@@ -1,30 +1,26 @@
-Notes from my phone:
 
-thankyouthaknyouthankyouthankyouthankyouthankyouathnlyouthankyouthankyouathnkyouhtankyuoythankyou
+_*/i don't feel this way anymore entirely
+feelings are deep and mine have been angry lately
+i got a 25/25 in my poetry class for this..however_*//
 
-*/*
+Good bye! Awful love, goodbye! 
+You vile cretin, annoying fly 
+I’ve had it with your awful lies
+Be gone, forever, our love is dry
 
-3:38am
-i'm drunk and your art was never interesting
+Your vile thoughts prick my brain
+The happy hum that replaced your name
+Lowly, you sit in despair, for shame!
+You awful love, your name is in vain
 
-*/*
+Goodbye! You awful love indeed;
+So lucky was I to be your need
+So silly to think I’d follow your lead
+Goodbye awful love, don’t remember me.
 
-here is the lonely hum in my brain where 
-your name used to be
-here is your promise of staying
-here are all of those drunk texts
-here are all of the "i love you"s 
-here is the shocking wreck of it all
-here is not knowing whether you loved me or not 
-here is the poem that can't save us
-here is me moving on, sad but growing
-here is me seeing you for the very first time
-here are the things i never wanted to see
-here is the realization
-here is the adoration, burnt up, hollow
-here are the memories we made
-here is me, moving towards indifference
-here is me, thanking you for giving up
-*/*
+
+
+
+=====*/-
 
 
