@@ -1,6 +1,5 @@
 
 _*/i don't feel this way anymore entirely
-feelings are deep and mine have been angry lately
 i got a 25/25 in my poetry class for this..however_*//
 
 Good bye! Awful love, goodbye! 
