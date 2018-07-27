@@ -5,10 +5,10 @@ that what he feels is true and deep
 and so that lowly shadow creep
 decided a lover he should keep
 
-but the shadow creep, he never knew
-the limit of things he could do
-then excuse the things he did to you
-because his feeling are deep & true
+the creep made sure the lover knew
+the sorrow of what he put her through
+and beg for pardon, for what he did to you
+because his feelings were both deep & true
 
 and now, the creep, alone he weeps
 his feelings void, not true, not deep
