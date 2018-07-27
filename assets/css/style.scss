@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 body {
-  background-image:
-      url("https://i.imgur.com/5mXLPDU.jpg");
   background-color: transparent;
+  color: #555;
+  background: #fff;
+  display: block;
 }
 link {
     color: pink;
