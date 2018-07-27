@@ -1,6 +1,4 @@
 
-_*/i don't feel this way anymore entirely
-i got a 25/25 in my poetry class for this..however_*//
 
 Good bye! Awful love, goodbye! 
 You vile cretin, annoying fly 
