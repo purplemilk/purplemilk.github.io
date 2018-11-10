@@ -1,3 +1,16 @@
+She dwells with Beauty—Beauty that must die; 
+       A joy, whose hand is ever at his lips 
+Bidding adieu; and aching Pleasure nigh, 
+       Turning to poison while the bee-mouth sips: 
+Ay, in the very temple of Delight 
+       Veil'd Melancholy has her sovran shrine, 
+               Though seen of none save him whose strenuous tongue 
+       Can burst Joy's grape against his palate fine; 
+His soul shalt taste the sadness of her might, 
+               And be among her cloudy trophies hung (: 
+
+
+*/_
 As others were; I have not seen
 As others saw; I could not bring
 
